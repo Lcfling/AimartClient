@@ -1,0 +1,24 @@
+.circle{
+	border-radius: 50%;
+}
+.bgcolor{
+	background-color: #eeeeee;
+}
+.shadow{
+	box-shadow: 6rpx -6rpx 18rpx #f0dfc1;
+}
+.f48{
+	font-size: 96rpx;
+}
+.f36{
+	font-size: 72rpx;
+}
+.linehight{
+	line-height: 96rpx;
+}
+.mt{
+	margin-top: 32rpx;
+}
+.pt48{
+	padding-top: 48rpx;
+}
